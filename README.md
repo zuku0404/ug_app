@@ -45,7 +45,7 @@ DOCKER:
 * APP:
     1. Clone the repository:
         ```bash
-    git clone https://github.com/zuku0404/ug_app.git
+        git clone https://github.com/zuku0404/ug_app.git
         ```
     2. Navigate to the project directory:
         ```bash
@@ -107,7 +107,7 @@ DOCKER:
               {
                "status": 500,
                "message": "something wrong",
-               "date": 2025-10-03
+               "date": "2025-10-03"
               }
               ```
 ## Usage
