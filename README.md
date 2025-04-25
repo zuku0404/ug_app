@@ -109,7 +109,7 @@ WITH DOCKER:
               ```
 ## Usage
 
-- Once the application is running, you can access the API at:
+Once the application is running, you can access the API at:
 * Without Docker: http://127.0.0.1:8081/home-page.html
 * With Docker: http://127.0.0.1:5500/home-page.html
 
