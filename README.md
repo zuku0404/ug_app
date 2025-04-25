@@ -4,12 +4,11 @@ This Java application is designed to convert the cost of computers purchased in 
 
 ## Installation
 
-1. WITHOUT DOCKER
-    BACKEND APPLICATION:
-
+WITHOUT DOCKER:
+* BACKEND APPLICATION:
     1. Clone the repository:
         ```bash
-    git clone https://github.com/zuku0404/ug_app.git
+        git clone https://github.com/zuku0404/ug_app.git
         ```
     2. Navigate to the project directory:
         ```bash
@@ -24,7 +23,7 @@ This Java application is designed to convert the cost of computers purchased in 
         ./gradlew bootRun
         ```
 
-    FRONTEND  APPLICATION:
+* FRONTEND  APPLICATION:
     1. Install Node.js 
     2. Navigate to the project directory:
         ```bash
@@ -42,8 +41,8 @@ This Java application is designed to convert the cost of computers purchased in 
          ```bash
         http://127.0.0.1:8081/home-page.html
         ```
-
-2. DOCKER:
+DOCKER:
+* APP:
     1. Clone the repository:
         ```bash
     git clone https://github.com/zuku0404/ug_app.git
