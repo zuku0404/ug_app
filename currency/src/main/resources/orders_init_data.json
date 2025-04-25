@@ -1,0 +1,20 @@
+[
+  {
+    "product": "komputer",
+    "productName": "ACER Aspire",
+    "postDate": "2025-01-03",
+    "costUsd": 345
+  },
+  {
+    "product": "komputer",
+    "productName": "DELL Latitude",
+    "postDate": "2025-01-10",
+    "costUsd": 543
+  },
+  {
+    "product": "komputer",
+    "productName": "HP Victus",
+    "postDate": "2025-01-19",
+    "costUsd": 346
+  }
+]

@@ -1,0 +1,1 @@
+export const backendUrl = "http://spring-backend:8080";
