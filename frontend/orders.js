@@ -35,6 +35,7 @@ dateInputElement.addEventListener('input', () =>{
 }) 
 
 function loadOrdersFetch(url) {
+    console.log(url);
     fetch(url)
 
         .then(response => {

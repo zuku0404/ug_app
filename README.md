@@ -110,8 +110,7 @@ WITH DOCKER:
 ## Usage
 
 Once the application is running, you can access the API at:
-* Without Docker: http://127.0.0.1:8081/home-page.html
-* With Docker: http://127.0.0.1:5500/home-page.html
+*  http://127.0.0.1:8081/home-page.html
 
 The frontend allows users to search for orders by product name; however, the search is case-sensitive. Additionally, users can filter orders by posting date. Sorting is available by product name and posting date.
 Please note: if the user chooses to filter by date, the sorting option by date becomes hidden and unavailable to avoid conflicting filters.
